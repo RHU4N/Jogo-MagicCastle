@@ -1,0 +1,83 @@
+C:\Users\Aluno\Documents\SharpDevelop Projects\Jogo\Jogo\obj\Debug\Jogo.csprojResolveAssemblyReference.cache
+C:\Users\Aluno\Documents\SharpDevelop Projects\Jogo\Jogo\obj\Debug\Jogo.MainForm.resources
+C:\Users\Aluno\Documents\SharpDevelop Projects\Jogo\Jogo\obj\Debug\Jogo.csproj.GenerateResource.Cache
+C:\Users\Aluno\Documents\SharpDevelop Projects\Jogo\Jogo\bin\Debug\Jogo.exe
+C:\Users\Aluno\Documents\SharpDevelop Projects\Jogo\Jogo\bin\Debug\Jogo.pdb
+C:\Users\Aluno\Documents\SharpDevelop Projects\Jogo\Jogo\obj\Debug\Jogo.exe
+C:\Users\Aluno\Documents\SharpDevelop Projects\Jogo\Jogo\obj\Debug\Jogo.pdb
+C:\Users\Aluno\Desktop\Jogo\Jogo\bin\Debug\Jogo.exe
+C:\Users\Aluno\Desktop\Jogo\Jogo\bin\Debug\Jogo.pdb
+C:\Users\Aluno\Desktop\Jogo\Jogo\obj\Debug\Jogo.csprojResolveAssemblyReference.cache
+C:\Users\Aluno\Desktop\Jogo\Jogo\obj\Debug\Jogo.MainForm.resources
+C:\Users\Aluno\Desktop\Jogo\Jogo\obj\Debug\Jogo.csproj.GenerateResource.Cache
+C:\Users\Aluno\Desktop\Jogo\Jogo\obj\Debug\Jogo.exe
+C:\Users\Aluno\Desktop\Jogo\Jogo\obj\Debug\Jogo.pdb
+C:\Users\Aluno\Desktop\Jogo - Copia\Jogo\bin\Debug\Jogo.exe
+C:\Users\Aluno\Desktop\Jogo - Copia\Jogo\bin\Debug\Jogo.pdb
+C:\Users\Aluno\Desktop\Jogo - Copia\Jogo\obj\Debug\Jogo.csprojResolveAssemblyReference.cache
+C:\Users\Aluno\Desktop\Jogo - Copia\Jogo\obj\Debug\Jogo.MainForm.resources
+C:\Users\Aluno\Desktop\Jogo - Copia\Jogo\obj\Debug\Jogo.csproj.GenerateResource.Cache
+C:\Users\Aluno\Desktop\Jogo - Copia\Jogo\obj\Debug\Jogo.exe
+C:\Users\Aluno\Desktop\Jogo - Copia\Jogo\obj\Debug\Jogo.pdb
+C:\Users\Hugo\Documents\Jogo - Copia\Jogo\bin\Debug\Jogo.exe
+C:\Users\Hugo\Documents\Jogo - Copia\Jogo\bin\Debug\Jogo.pdb
+C:\Users\Hugo\Documents\Jogo - Copia\Jogo\obj\Debug\Jogo.csprojResolveAssemblyReference.cache
+C:\Users\Hugo\Documents\Jogo - Copia\Jogo\obj\Debug\Jogo.MainForm.resources
+C:\Users\Hugo\Documents\Jogo - Copia\Jogo\obj\Debug\Jogo.csproj.GenerateResource.Cache
+C:\Users\Hugo\Documents\Jogo - Copia\Jogo\obj\Debug\Jogo.exe
+C:\Users\Hugo\Documents\Jogo - Copia\Jogo\obj\Debug\Jogo.pdb
+C:\Users\Hugo\Downloads\Jogo - Copia\Jogo\obj\Debug\Jogo.csprojResolveAssemblyReference.cache
+C:\Users\Hugo\Downloads\Jogo - Copia\Jogo\obj\Debug\Jogo.MainForm.resources
+C:\Users\Hugo\Downloads\Jogo - Copia\Jogo\obj\Debug\Jogo.csproj.GenerateResource.Cache
+C:\Users\Hugo\Downloads\Jogo - Copia\Jogo\obj\Debug\Jogo.exe
+C:\Users\Hugo\Downloads\Jogo - Copia\Jogo\bin\Debug\Jogo.exe
+C:\Users\Hugo\Downloads\Jogo - Copia\Jogo\bin\Debug\Jogo.pdb
+C:\Users\Hugo\Downloads\Jogo - Copia\Jogo\obj\Debug\Jogo.pdb
+C:\Users\Hugo\Desktop\JOGO_TESTE\Jogo\bin\Debug\Jogo.exe
+C:\Users\Hugo\Desktop\JOGO_TESTE\Jogo\bin\Debug\Jogo.pdb
+C:\Users\Hugo\Desktop\JOGO_TESTE\Jogo\obj\Debug\Jogo.csprojResolveAssemblyReference.cache
+C:\Users\Hugo\Desktop\JOGO_TESTE\Jogo\obj\Debug\Jogo.MainForm.resources
+C:\Users\Hugo\Desktop\JOGO_TESTE\Jogo\obj\Debug\Jogo.csproj.GenerateResource.Cache
+C:\Users\Hugo\Desktop\JOGO_TESTE\Jogo\obj\Debug\Jogo.exe
+C:\Users\Hugo\Desktop\JOGO_TESTE\Jogo\obj\Debug\Jogo.pdb
+C:\Users\joilma\Documents\Lição Rhuan tecnologia\JOGO_TESTE\Jogo\bin\Debug\Jogo.exe
+C:\Users\joilma\Documents\Lição Rhuan tecnologia\JOGO_TESTE\Jogo\bin\Debug\Jogo.pdb
+C:\Users\joilma\Documents\Lição Rhuan tecnologia\JOGO_TESTE\Jogo\obj\Debug\Jogo.csprojResolveAssemblyReference.cache
+C:\Users\joilma\Documents\Lição Rhuan tecnologia\JOGO_TESTE\Jogo\obj\Debug\Jogo.MainForm.resources
+C:\Users\joilma\Documents\Lição Rhuan tecnologia\JOGO_TESTE\Jogo\obj\Debug\Jogo.csproj.GenerateResource.Cache
+C:\Users\joilma\Documents\Lição Rhuan tecnologia\JOGO_TESTE\Jogo\obj\Debug\Jogo.exe
+C:\Users\joilma\Documents\Lição Rhuan tecnologia\JOGO_TESTE\Jogo\obj\Debug\Jogo.pdb
+C:\Users\joilma\Documents\Lição Rhuan tecnologia\JOGO_TESTE\Jogo\obj\Debug\Jogo.FormSubiuNivel.resources
+C:\Users\Hugo\Downloads\JOGO_TESTE_Rhuan\Jogo\bin\Debug\Jogo.exe
+C:\Users\Hugo\Downloads\JOGO_TESTE_Rhuan\Jogo\bin\Debug\Jogo.pdb
+C:\Users\Hugo\Downloads\JOGO_TESTE_Rhuan\Jogo\obj\Debug\Jogo.csprojResolveAssemblyReference.cache
+C:\Users\Hugo\Downloads\JOGO_TESTE_Rhuan\Jogo\obj\Debug\Jogo.FormSubiuNivel.resources
+C:\Users\Hugo\Downloads\JOGO_TESTE_Rhuan\Jogo\obj\Debug\Jogo.MainForm.resources
+C:\Users\Hugo\Downloads\JOGO_TESTE_Rhuan\Jogo\obj\Debug\Jogo.csproj.GenerateResource.Cache
+C:\Users\Hugo\Downloads\JOGO_TESTE_Rhuan\Jogo\obj\Debug\Jogo.exe
+C:\Users\Hugo\Downloads\JOGO_TESTE_Rhuan\Jogo\obj\Debug\Jogo.pdb
+C:\Users\Hugo\Downloads\JOGO_TESTE_Rhuan\Jogo\obj\Debug\Jogo.SelecionarCampeao.resources
+C:\Users\Hugo\Documents\POO_JOGO\MagicCastle\Jogo\bin\Debug\Jogo.exe
+C:\Users\Hugo\Documents\POO_JOGO\MagicCastle\Jogo\bin\Debug\Jogo.pdb
+C:\Users\Hugo\Documents\POO_JOGO\MagicCastle\Jogo\obj\Debug\Jogo.csprojResolveAssemblyReference.cache
+C:\Users\Hugo\Documents\POO_JOGO\MagicCastle\Jogo\obj\Debug\Jogo.FormSubiuNivel.resources
+C:\Users\Hugo\Documents\POO_JOGO\MagicCastle\Jogo\obj\Debug\Jogo.MainForm.resources
+C:\Users\Hugo\Documents\POO_JOGO\MagicCastle\Jogo\obj\Debug\Jogo.SelecionarCampeao.resources
+C:\Users\Hugo\Documents\POO_JOGO\MagicCastle\Jogo\obj\Debug\Jogo.csproj.GenerateResource.Cache
+C:\Users\Hugo\Documents\POO_JOGO\MagicCastle\Jogo\obj\Debug\Jogo.exe
+C:\Users\Hugo\Documents\POO_JOGO\MagicCastle\Jogo\obj\Debug\Jogo.pdb
+C:\Users\Hugo\Documents\POO_JOGO\MagicCastle\Jogo\obj\Debug\Jogo.Vitoria.resources
+C:\Users\Hugo\Documents\POO_JOGO\MagicCastle\Jogo\obj\Debug\Jogo.Game_Over.resources
+C:\Users\Hugo\Documents\POO_JOGO\MagicCastle\Jogo\obj\Debug\Jogo.FormVideoIntro.resources
+C:\Users\joilma\Documents\SharpDevelop Projects\MagicCastle\Jogo\bin\Debug\Jogo.exe
+C:\Users\joilma\Documents\SharpDevelop Projects\MagicCastle\Jogo\bin\Debug\Jogo.pdb
+C:\Users\joilma\Documents\SharpDevelop Projects\MagicCastle\Jogo\obj\Debug\Jogo.csprojResolveAssemblyReference.cache
+C:\Users\joilma\Documents\SharpDevelop Projects\MagicCastle\Jogo\obj\Debug\Jogo.FormSubiuNivel.resources
+C:\Users\joilma\Documents\SharpDevelop Projects\MagicCastle\Jogo\obj\Debug\Jogo.FormVideoIntro.resources
+C:\Users\joilma\Documents\SharpDevelop Projects\MagicCastle\Jogo\obj\Debug\Jogo.Game_Over.resources
+C:\Users\joilma\Documents\SharpDevelop Projects\MagicCastle\Jogo\obj\Debug\Jogo.MainForm.resources
+C:\Users\joilma\Documents\SharpDevelop Projects\MagicCastle\Jogo\obj\Debug\Jogo.SelecionarCampeao.resources
+C:\Users\joilma\Documents\SharpDevelop Projects\MagicCastle\Jogo\obj\Debug\Jogo.Vitoria.resources
+C:\Users\joilma\Documents\SharpDevelop Projects\MagicCastle\Jogo\obj\Debug\Jogo.csproj.GenerateResource.Cache
+C:\Users\joilma\Documents\SharpDevelop Projects\MagicCastle\Jogo\obj\Debug\Jogo.exe
+C:\Users\joilma\Documents\SharpDevelop Projects\MagicCastle\Jogo\obj\Debug\Jogo.pdb
